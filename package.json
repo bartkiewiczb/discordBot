@@ -1,0 +1,15 @@
+{
+  "name": "haromk2",
+  "version": "0.0.0",
+  "description": "Server Bot for Dem Boiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "biggs millionaire",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fuzzy-search": "^3.2.1"
+  }
+}
